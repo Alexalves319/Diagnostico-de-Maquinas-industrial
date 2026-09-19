@@ -1,0 +1,8 @@
+{
+  "name": "Diagnóstico de Máquinas & Manutenção",
+  "description": "Sistema de diagnóstico rápido por código de falha, procedimentos de solução, histórico de manutenções com exportação em PDF, pendências por projeto e controle de acesso para Operador e Administrador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
